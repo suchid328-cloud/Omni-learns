@@ -1,0 +1,7 @@
+{
+  "name": "OmniLearn AI Hub",
+  "description": "A stunning, colorful AI Learning Hub featuring Smart Quiz Arena, Step-by-Step Math Solver, Mind Games Arcade, and Vast Knowledge AI Mentor powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
